@@ -65,5 +65,4 @@ const hints = [
     }
 ]
 
-
-export hints;
+export default hints;
